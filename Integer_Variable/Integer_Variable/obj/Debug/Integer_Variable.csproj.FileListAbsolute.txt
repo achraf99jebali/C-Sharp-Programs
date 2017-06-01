@@ -1,0 +1,6 @@
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\bin\Debug\Integer_Variable.exe.config
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\bin\Debug\Integer_Variable.exe
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\bin\Debug\Integer_Variable.pdb
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\obj\Debug\Integer_Variable.csprojResolveAssemblyReference.cache
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\obj\Debug\Integer_Variable.exe
+C:\Users\achraf jebali\Documents\Visual Studio 2017\Projects\Integer_Variable\Integer_Variable\obj\Debug\Integer_Variable.pdb
