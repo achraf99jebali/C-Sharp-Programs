@@ -1,0 +1,6 @@
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe.config
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.pdb
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.csprojResolveAssemblyReference.cache
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.exe
+c:\users\achraf jebali\documents\visual studio 2017\Projects\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.pdb
